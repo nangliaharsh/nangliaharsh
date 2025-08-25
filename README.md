@@ -38,8 +38,8 @@ I enjoy solving complex problems with data, designing scalable architectures, an
 
 ## 📫 Let's Connect  
 
-- LinkedIn: [linkedin.com/in/harsh-nanglia](#)  
-- Email: harshnanglia@email.com  
+- LinkedIn: www.linkedin.com/in/harsh-nanglia
+- Email: nangliaharsh@gmail.com
 
 ---
 ⭐️ From [Harsh Nanglia](#)  
