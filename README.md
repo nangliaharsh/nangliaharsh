@@ -20,6 +20,11 @@ AI/ML Engineer specializing in **LLM-powered applications, Retrieval-Augmented G
 - 🛠️ Core focus: RAG architectures, LLM application development, and backend systems built for production, not just prototypes
 - 📍 Based in New Delhi, India
 
+**Data Analyst Intern — Dataplay, Jaipur (Remote)** ·
+- Designed interactive dashboards in Power BI, contributing to a 35% improvement in decision accuracy for stakeholders.
+- Led a four-person team to deliver a data visualization project under tight deadlines.
+- Conducted data analysis to identify trends, supporting cost-optimization decisions.
+
 <br/>
 
 ## Featured Project
