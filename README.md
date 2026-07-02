@@ -20,11 +20,6 @@ AI/ML Engineer specializing in **LLM-powered applications, Retrieval-Augmented G
 - 🛠️ Core focus: RAG architectures, LLM application development, and backend systems built for production, not just prototypes
 - 📍 Based in New Delhi, India
 
-**Data Analyst Intern — Dataplay, Jaipur (Remote)** ·
-- Designed interactive dashboards in Power BI, contributing to a 35% improvement in decision accuracy for stakeholders.
-- Led a four-person team to deliver a data visualization project under tight deadlines.
-- Conducted data analysis to identify trends, supporting cost-optimization decisions.
-
 <br/>
 
 ## Featured Project
@@ -49,6 +44,11 @@ Key capabilities: multi-document ingestion with source-attributed citations, ses
 - **ETHAN** — real-time EMS dispatch backend built with FastAPI and Azure, designed for low-latency request handling under live operational conditions.
 - **IDE (Intelligent Document Extraction)** — an extraction pipeline combining Azure OpenAI and OCR to convert unstructured documents into structured, queryable data.
 
+**Data Analyst Intern — Dataplay, Jaipur (Remote)**
+- Designed interactive dashboards in Power BI, contributing to a 35% improvement in decision accuracy for stakeholders.
+- Led a four-person team to deliver a data visualization project under tight deadlines.
+- Conducted data analysis to identify trends, supporting cost-optimization decisions.
+
 <br/>
 
 ## Tech Stack
@@ -69,6 +69,7 @@ Key capabilities: multi-document ingestion with source-attributed citations, ses
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Backend & Serving**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -95,7 +96,17 @@ Key capabilities: multi-document ingestion with source-attributed citations, ses
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nangliaharsh&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nangliaharsh&layout=compact&hide_border=true" />
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nangliaharsh&hide_border=true&theme=default" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/nangliaharsh/nangliaharsh/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+
 </div>
+
+> The contribution graph above (snake animation) updates automatically via a GitHub Action — setup instructions below.
 
 <br/>
 
