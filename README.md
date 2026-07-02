@@ -14,13 +14,11 @@
 
 ## About
 
-AI/ML Engineer specializing in **LLM-powered applications, Retrieval-Augmented Generation (RAG), and production backend systems**. I focus on turning research-grade NLP techniques into reliable, deployable services — from real-time dispatch backends to document-intelligence pipelines.
-
-Currently seeking full-time **AI Engineer / ML Engineer / GenAI Engineer** roles.
+AI/ML Engineer specializing in **LLM-powered applications, Retrieval-Augmented Generation (RAG), and production backend systems**. I build systems that turn research-grade NLP techniques into reliable, deployable services — from real-time dispatch backends to document-intelligence pipelines — and evaluate them quantitatively rather than anecdotally.
 
 - 🎓 B.Tech, Computer Science & Engineering — Maharaja Agrasen University (CGPA: 8.50)
-- 🛠️ Recent work: real-time backend systems (FastAPI + Azure), OCR-based document extraction pipelines, and multi-document RAG applications
-- 📍 Based in New Delhi, India — open to relocation
+- 🛠️ Core focus: RAG architectures, LLM application development, and backend systems built for production, not just prototypes
+- 📍 Based in New Delhi, India
 
 <br/>
 
