@@ -16,7 +16,7 @@
 
 AI/ML Engineer specializing in **LLM-powered applications, Retrieval-Augmented Generation (RAG), and production backend systems**. I build systems that turn research-grade NLP techniques into reliable, deployable services — from real-time dispatch backends to document-intelligence pipelines — and evaluate them quantitatively rather than anecdotally.
 
-- 🎓 B.Tech, Computer Science & Engineering — Maharaja Agrasen University (CGPA: 8.50)
+- 🎓 B.Tech, Computer Science & Engineering — Maharaja Agrasen Institute Of Technology(MAIT)
 - 🛠️ Core focus: RAG architectures, LLM application development, and backend systems built for production, not just prototypes
 - 📍 Based in New Delhi, India
 
