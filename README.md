@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Retrieval-Augmented-Generation+(RAG)+Systems;LLM+%26+GenAI+Application+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Retrieval-Augmented-Generation+Systems;LLM+%26+GenAI+Application+Development" alt="Typing SVG" />
 
 <br/>
 
