@@ -40,7 +40,7 @@ Key capabilities: multi-document ingestion with source-attributed citations, ses
 
 ## Experience Highlights
 
-**AI/ML Engineer & Python Developer — Digital Glyde**
+**Python AI Developer — Digital Glyde**
 - **ETHAN** — real-time EMS dispatch backend built with FastAPI and Azure, designed for low-latency request handling under live operational conditions.
 - **IDE (Intelligent Document Extraction)** — an extraction pipeline combining Azure OpenAI and OCR to convert unstructured documents into structured, queryable data.
 
