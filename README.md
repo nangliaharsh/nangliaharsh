@@ -89,7 +89,6 @@ Key capabilities: multi-document ingestion with source-attributed citations, ses
 
 <br/>
 
-## Connect
 # 🤝 Let's Connect
 
 <div align="center">
