@@ -32,7 +32,7 @@ A production-grade retrieval-augmented generation system for querying multiple d
 | Retrieval | LangChain · ChromaDB · HuggingFace Sentence-Transformers |
 | Generation | LLaMA 3 (via Groq) |
 | Serving | FastAPI · Streamlit |
-| Evaluation | RAGAS — **100% Faithfulness**, **74% Answer Relevancy** |
+| Evaluation | RAGAS — **Faithfulness**, **74% Answer Relevancy** |
 
 Key capabilities: multi-document ingestion with source-attributed citations, session-isolated conversational memory, and quantitative quality evaluation rather than anecdotal testing.
 
@@ -40,7 +40,7 @@ Key capabilities: multi-document ingestion with source-attributed citations, ses
 
 ## Experience Highlights
 
-**AI/ML Engineer & Python Developer — Digital Glyde**
+**Python AI Developer — Digital Glyde**
 - **ETHAN** — real-time EMS dispatch backend built with FastAPI and Azure, designed for low-latency request handling under live operational conditions.
 - **IDE (Intelligent Document Extraction)** — an extraction pipeline combining Azure OpenAI and OCR to convert unstructured documents into structured, queryable data.
 
@@ -90,10 +90,20 @@ Key capabilities: multi-document ingestion with source-attributed citations, ses
 <br/>
 
 ## Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harsh-nanglia)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nangliaharsh@gmail.com)
+<a href="https://www.linkedin.com/in/harsh-nanglia">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-alpha-ruby-37.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:nangliaharsh@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
