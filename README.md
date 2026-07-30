@@ -1,182 +1,120 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Retrieval-Augmented-Generation+Systems;LLM+%26+GenAI+Application+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Retrieval-Augmented+Generation+(RAG)+Systems;LLM+%26+GenAI+Application+Development" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/harsh-nanglia" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://portfolio-alpha-ruby-37.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:nangliaharsh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/nangliaharsh" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=nangliaharsh&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harsh-nanglia)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nangliaharsh@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=nangliaharsh&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/nangliaharsh)
 
 </div>
 
 <br/>
 
-# 👋 About Me
+## About
 
-AI/ML Engineer specializing in **LLM-powered applications, Retrieval-Augmented Generation (RAG), Agentic AI, and production backend systems**.
+AI/ML Engineer specializing in **LLM-powered applications, Retrieval-Augmented Generation (RAG), and production backend systems**. I build systems that turn research-grade NLP techniques into reliable, deployable services — from real-time dispatch backends to document-intelligence pipelines — and evaluate them quantitatively rather than anecdotally.
 
-I build intelligent AI applications that transform research-grade NLP techniques into scalable, production-ready solutions. My expertise includes developing **RAG pipelines, AI agents, document intelligence systems, multimodal AI applications, and backend APIs** while evaluating models using quantitative metrics instead of anecdotal testing.
+- 🎓 B.Tech, Computer Science & Engineering — Maharaja Agrasen University (CGPA: 8.50)
+- 🛠️ Core focus: RAG architectures, LLM application development, and backend systems built for production, not just prototypes
+- 📍 Based in New Delhi, India
 
-- 🎓 **B.Tech in Computer Science & Engineering** — Maharaja Agrasen Institute Of Technology (MAIT)
-- 🤖 **Specialization:** Generative AI, LLMs, RAG, AI Agents, NLP & Backend Engineering
-- 🚀 **Currently Building:** Production-grade AI systems powered by LangChain, LlamaIndex & FastAPI
-- 📍 **Location:** New Delhi, India
+<br/>
 
----
+## Featured Project
 
-# 🚀 Featured Project
+### [DocuMind — Multi-Document RAG Pipeline](https://github.com/nangliaharsh)
+A production-grade retrieval-augmented generation system for querying multiple documents with cited sources and persistent chat memory.
 
-## 📄 DocuMind — Multi-Document RAG Pipeline
+| Component | Stack |
+|---|---|
+| Retrieval | LangChain · ChromaDB · HuggingFace Sentence-Transformers |
+| Generation | LLaMA 3 (via Groq) |
+| Serving | FastAPI · Streamlit |
+| Evaluation | RAGAS — **100% Faithfulness**, **74% Answer Relevancy** |
 
-A production-grade Retrieval-Augmented Generation (RAG) system capable of querying multiple documents with cited sources, conversational memory, and evaluation metrics.
+Key capabilities: multi-document ingestion with source-attributed citations, session-isolated conversational memory, and quantitative quality evaluation rather than anecdotal testing.
 
-| Component | Technology |
-|------------|------------|
-| Retrieval | LangChain · ChromaDB · HuggingFace Sentence Transformers |
-| LLM | Llama 3 (Groq API) |
-| Backend | FastAPI |
-| Frontend | Streamlit |
-| Evaluation | RAGAS |
-| Database | ChromaDB |
+<br/>
 
-### ✨ Features
+## Experience Highlights
 
-- 📄 Multi-document ingestion
-- 🔍 Semantic document search
-- 💬 Context-aware conversations
-- 📚 Source-attributed citations
-- 🧠 Persistent chat memory
-- ⚡ FastAPI backend
-- 📊 RAGAS Evaluation
-- 🚀 Production-ready architecture
+**AI/ML Engineer & Python Developer — Digital Glyde**
+- **ETHAN** — real-time EMS dispatch backend built with FastAPI and Azure, designed for low-latency request handling under live operational conditions.
+- **IDE (Intelligent Document Extraction)** — an extraction pipeline combining Azure OpenAI and OCR to convert unstructured documents into structured, queryable data.
 
-### 📈 Evaluation Results
+**Data Analyst Intern — Dataplay, Jaipur (Remote)**
+- Designed interactive dashboards in Power BI, contributing to a 35% improvement in decision accuracy for stakeholders.
+- Led a four-person team to deliver a data visualization project under tight deadlines.
+- Conducted data analysis to identify trends, supporting cost-optimization decisions.
 
-| Metric | Score |
-|--------|-------|
-| Faithfulness | **100%** |
-| Answer Relevancy | **74%** |
+<br/>
 
----
+## Tech Stack
 
-# 💼 Experience
+**Languages & Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Python AI Developer — Digital Glyde
+**ML / AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-Worked on enterprise-grade AI applications and backend services.
+**Data & Vector Search**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### ETHAN
-- Built FastAPI backend APIs for emergency medical services.
-- Integrated Azure services and SQL Server.
-- Optimized backend performance for real-time dispatch.
-- Developed scalable REST APIs for production deployment.
+**Backend & Serving**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### IDE (Intelligent Document Extraction)
+**Cloud & Infrastructure**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- Built document intelligence pipeline using Azure OpenAI.
-- OCR-based extraction from scanned documents.
-- Automated structured JSON generation.
-- Reduced manual processing using AI.
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+<br/>
 
-## Data Analyst Intern — Dataplay, Jaipur (Remote)
-
-- Data preprocessing and visualization
-- Dashboard development
-- SQL reporting
-- Business intelligence analysis
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## AI / ML
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-## Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-## Databases
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5C2D91?style=for-the-badge)
-
-## Cloud
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-# 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=nangliaharsh&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nangliaharsh&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nangliaharsh&layout=compact&hide_border=true" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nangliaharsh&theme=tokyonight&hide_border=true)
+<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nangliaharsh&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nangliaharsh&hide_border=true&theme=default" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/nangliaharsh/nangliaharsh/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 
 </div>
 
----
+> The contribution graph above (snake animation) updates automatically via a GitHub Action — setup instructions below.
 
-# 🤝 Let's Connect
+<br/>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/harsh-nanglia">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-alpha-ruby-37.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:nangliaharsh@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
+## Connect
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
-
-*"Building AI systems that solve real-world problems."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harsh-nanglia)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nangliaharsh@gmail.com)
 
 </div>
