@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Retrieval-Augmented+Generation+(RAG)+Systems;LLM+%26+GenAI+Application+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Retrieval-Augmented-Generation+Systems;LLM+%26+GenAI+Application+Development" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 AI/ML Engineer specializing in **LLM-powered applications, Retrieval-Augmented Generation (RAG), and production backend systems**. I build systems that turn research-grade NLP techniques into reliable, deployable services — from real-time dispatch backends to document-intelligence pipelines — and evaluate them quantitatively rather than anecdotally.
 
-- 🎓 B.Tech, Computer Science & Engineering — Maharaja Agrasen University (CGPA: 8.50)
+- 🎓 B.Tech, Computer Science & Engineering — Maharaja Agrasen Institute Of Technology(MAIT)
 - 🛠️ Core focus: RAG architectures, LLM application development, and backend systems built for production, not just prototypes
 - 📍 Based in New Delhi, India
 
@@ -86,27 +86,6 @@ Key capabilities: multi-document ingestion with source-attributed citations, ses
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nangliaharsh&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nangliaharsh&layout=compact&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nangliaharsh&hide_border=true&theme=default" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/nangliaharsh/nangliaharsh/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
-
-</div>
-
-> The contribution graph above (snake animation) updates automatically via a GitHub Action — setup instructions below.
 
 <br/>
 
