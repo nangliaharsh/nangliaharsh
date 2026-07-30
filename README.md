@@ -89,27 +89,6 @@ Key capabilities: multi-document ingestion with source-attributed citations, ses
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nangliaharsh&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nangliaharsh&layout=compact&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nangliaharsh&hide_border=true&theme=default" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/nangliaharsh/nangliaharsh/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
-
-</div>
-
-> The contribution graph above (snake animation) updates automatically via a GitHub Action — setup instructions below.
-
-<br/>
-
 ## Connect
 
 <div align="center">
