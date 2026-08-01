@@ -36,7 +36,7 @@ A production-grade retrieval-augmented generation system for querying multiple d
 
 Key capabilities: multi-document ingestion with source-attributed citations, session-isolated conversational memory, and quantitative quality evaluation rather than anecdotal testing.
 
-- ##MindfulChat — AI Wellness Companion** 
+##MindfulChat — AI Wellness Companion
 - A responsible AI engineering system for mental wellness utilizing React, FastAPI, Groq/Llama 3, ChromaDB, and `sentence-transformers` (deployed on Vercel + Render).
   - Built a two-layer safety pipeline (keyword matching + semantic search) to intercept distress language and bypass the LLM for immediate crisis routing.
   - Integrated RAG-grounded coping strategies using vector retrieval to prevent model hallucination in sensitive contexts.
